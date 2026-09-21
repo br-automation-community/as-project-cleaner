@@ -1,5 +1,6 @@
 # Automation Studio Project Cleaner
 
+![Automation Studio Project Cleaner Demo](docs/AsCleanerDemo.gif)
 A small Windows utility for cleaning generated folders from
 B&R Automation Studio projects.
 
